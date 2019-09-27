@@ -1,5 +1,4 @@
-
-# Mongo Crud operations
+# Mongo CRUD operations
 
 ### Basic operations
 
